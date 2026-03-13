@@ -22,7 +22,7 @@ A simple and interactive bash script for cleaning up temporary files and cache o
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Jdhdx/cleaner-sh.git
-cd cleaner-sh
-chmod +x cleaner.sh
-./cleaner.sh
+git clone https://github.com/Jdhdx/clear-sh.git
+cd clear-sh
+chmod +x clear.sh
+./clear.sh
